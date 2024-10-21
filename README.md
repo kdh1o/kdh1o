@@ -2,5 +2,3 @@
 
 ![c++](https://img.shields.io/badge/c++-0B0B61?style=for-the-badge&logo=c++&logoColor=white)
 
-* linguist-vendored
-*.c++ linguist-vendored=false
