@@ -1,9 +1,3 @@
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kdh1o&show_icons=true&theme=radical)
-
-
-
 Solved.Ac Status
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=dohyun1016)](https://solved.ac/dohyun1016)
