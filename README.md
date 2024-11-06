@@ -1,7 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
-
 # History
-+<a href="https://saerom.sjedums.kr/saerom-m/main.do;jsessionid=D6AF792E7BC72B575C240913E41A295A.bc38a1e662e800041">새롬중학교</a> 2023~.
+-<a href="https://saerom.sjedums.kr/saerom-m/main.do;jsessionid=D6AF792E7BC72B575C240913E41A295A.bc38a1e662e800041">새롬중학교</a> 2023.3.1~
 
 # Coding Stat
 [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=dohyun1016)](https://solved.ac/dohyun1016)
@@ -12,5 +10,3 @@
 # Rates
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kdh1o&hide=jupyter%20notebook,html)
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
